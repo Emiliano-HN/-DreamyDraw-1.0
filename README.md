@@ -2,58 +2,58 @@
 DreamyDraw es una inteligencia creativa que transforma descripciones escritas en imágenes únicas y artísticas utilizando el modelo Stable Diffusion 2.1. Diseñado con pasión por Emiliano Hernández Navarrete, este proyecto te permite explorar el poder de la generación de imágenes a través del lenguaje.
 
 🚀 Características
-Generación de imágenes a partir de texto (Text-to-Image).
+-Generación de imágenes a partir de texto (Text-to-Image).
 
-Compatible con GPU para un rendimiento más rápido.
+-Compatible con GPU para un rendimiento más rápido.
 
-También funciona con CPU (más lento, pero igual de mágico).
+-También funciona con CPU (más lento, pero igual de mágico).
 
-Basado en la potente librería diffusers de Hugging Face.
+-Basado en la potente librería diffusers de Hugging Face.
 
 🛠️ Requisitos
-Google Colab (recomendado)
+-Google Colab (recomendado)
 
-Python
+-Python
 
-Bibliotecas necesarias:
+-Bibliotecas necesarias:
 
-diffusers
+-diffusers
 
-transformers
+-transformers
 
-accelerate
+-accelerate
 
-scipy
+-scipy
 
-safetensors
+-safetensors
 
 Instalación automática en Colab:
 
-python
-Copiar
-Editar
+-python
+-Copiar
+-Editar
 !pip install diffusers transformers accelerate scipy safetensors --quiet
 💡 ¿Cómo usar DreamyDraw?
-Ejecuta el notebook en Google Colab.
+-Ejecuta el notebook en Google Colab.
 
-Ingresa el texto de lo que deseas imaginar.
+-Ingresa el texto de lo que deseas imaginar.
 
-Espera unos segundos mientras DreamyDraw crea tu imagen.
+-Espera unos segundos mientras DreamyDraw crea tu imagen.
 
-¡Descarga tu obra de arte directamente!
+-¡Descarga tu obra de arte directamente!
 
 ✨ Ejemplo de uso
-python
-Copiar
-Editar
+-python
+-Copiar
+-Editar
 prompt = "Un castillo flotando en el cielo al atardecer"
 dreamy_draw(prompt)
 📌 Notas
-Cada imagen es única.
+-Cada imagen es única.
 
-La velocidad depende de si se usa CPU o GPU.
+-La velocidad depende de si se usa CPU o GPU.
 
-DreamyDraw es experimental y puede mejorar con el tiempo.
+-DreamyDraw es experimental y puede mejorar con el tiempo.
 
 ❤️ Autor
-Proyecto creado con pasión por Emiliano Hernández Navarrete.
+-Proyecto creado con pasión por Emiliano Hernández Navarrete.
