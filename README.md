@@ -57,3 +57,5 @@ dreamy_draw(prompt)
 
 ❤️ Autor
 -Proyecto creado con pasión por Emiliano Hernández Navarrete.
+
+💡Dudas al eh8434573@gmail.com
